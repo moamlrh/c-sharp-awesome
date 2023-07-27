@@ -1,4 +1,4 @@
-# C Sharp Awesome (DOTNET AWSEOME)
+# C Sharp Awesome (DOTNET AWESOME)
 ### List of resources that I found online when I started learning C#, DotNet (.Net).
 
 ## C# Tutorials
