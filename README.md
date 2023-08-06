@@ -17,3 +17,6 @@
 ## Discord 
    - [CodeOpinion](https://discord.gg/yg2fHJAE)
    - [C#](https://discord.gg/csharp)
+
+## Books 
+   - ULTIMATE ASP.NET CORE WEB API Second Edition by [Code-maze](https://code-maze.com/ultimate-aspnetcore-webapi-second-edition)
